@@ -1,0 +1,50 @@
+ select{
+	display: block;
+	width: 100%;
+	padding: .375rem .75rem;
+	font-size: .9rem;
+	line-height: 1.6;
+	color: #495057;
+	background-color: #fff;
+	background-clip: padding-box;
+	border: 1px solid #ced4da;
+	border-radius: .25rem;
+}
+
+button[type='submit']{
+	display: block;
+	clear: both;
+	width: 7% ;
+	float: right ;
+
+}
+
+
+
+.card-body form > div {
+	width: 33% !important;
+	float: left;
+}
+
+
+.card-body form div:nth-child(6){
+	margin-top: 36px;
+}
+
+.card-body form div:nth-child(6) span{
+	margin-left: 50px;
+}
+
+.card-body form div:nth-child(6) input[type='radio']{
+  background-color: #eee;
+  border-radius: 50%;
+}
+
+
+.card-body form div:last-child label{
+	display: block;
+}
+
+.card-body form div:last-child select{
+	width: 140%;
+}

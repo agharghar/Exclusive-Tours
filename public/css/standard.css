@@ -1,0 +1,83 @@
+/*general*/
+
+
+
+/*general*/
+
+
+
+/*Start Table Style*/
+table{
+	float: left;
+	margin-right: 5px;
+	text-align: center;
+}
+table ,tr ,td ,th {
+
+	border: 2px solid #777;
+	border-collapse: collapse;
+}
+
+/*End  Table Style*/
+
+
+.centre {
+	padding: 10px 100px 10px 100px;
+}
+
+
+.home-btn{
+	margin: 5px;
+	margin-left: 7%;
+	padding: 50px;
+	font-size: 31px;
+	width: 260px;
+}
+
+
+
+/*Start Framework */
+
+
+.search-form{
+
+display: inline-block;
+
+}
+
+
+.search-box , .search-button{
+
+	padding: 3px;
+	border: 2px solid #6c757d;
+	border-radius: 7px;
+
+}
+
+.search-box {
+
+
+}
+
+
+.search-button{
+	cursor: pointer;
+
+
+}
+
+.card-header a , .card-header button{
+	margin-top: 0;
+}
+
+
+
+
+
+
+
+
+
+
+/*End Framework */
+
